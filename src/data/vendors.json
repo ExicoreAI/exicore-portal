@@ -1,0 +1,7 @@
+[
+  {"id": 1, "name": "Built Robotics", "product": "Autonomous excavators/dozers", "country": "USA", "funding": "$137M", "stage": "Series C", "website": "builtrobotics.com", "api_status": "UNKNOWN-CONFIRMED"},
+  {"id": 2, "name": "Dusty Robotics", "product": "Autonomous floor layout marking", "country": "USA", "funding": "$69M", "stage": "Series B", "website": "dustyrobotics.com", "api_status": "CLOSED"},
+  {"id": 3, "name": "ICON", "product": "Large-scale 3D concrete printing", "country": "USA", "funding": "$451M+", "stage": "Series B", "website": "iconbuild.com", "api_status": "UNKNOWN-CONFIRMED"},
+  {"id": 4, "name": "Canvas Robotics", "product": "AI drywall finishing robot", "country": "USA", "funding": "$22M+", "stage": "Series A", "website": "canvas.build", "api_status": "UNKNOWN-CONFIRMED"},
+  {"id": 5, "name": "Boston Dynamics", "product": "Spot — site inspection robot", "country": "USA", "funding": "Acquired by Hyundai", "stage": "Acquired", "website": "bostondynamics.com", "api_status": "OPEN"}
+]
